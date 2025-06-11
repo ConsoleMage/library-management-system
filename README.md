@@ -38,4 +38,4 @@ With some help from the Visual Studio IDE, I was able to set breakpoints and ini
 
 Adding new features to the application with Copilot through prompts was relatively easy, thanks to the integrated Copilot chat within the Visual Studio IDE. I had to discipline myself to first understand the code suggested by Copilot before integrating it into my project to avoid mistakes or introducing bugs that I might not understand later.
 
-**Tech stack**: .NET, Visual Studio, C# Dev Kit, SonarQube, GitHub Copilot
+**Tech stack**: .NET, Visual Studio Code, C# Dev Kit, SonarQube, GitHub Copilot
