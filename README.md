@@ -24,7 +24,7 @@ Imagine you're a librarian managing a small collection of five books. You need a
 
 With the help of Microsoft Copilot, you will build this program using string variables, conditional statements, and loops.  
 
-**Added by Copilot*
+**Added by GitHub Copilot*
 
 ### 2. Testing / Debugging
 
