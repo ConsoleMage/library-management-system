@@ -1,10 +1,10 @@
 # library-management-system
 
+This is the second peer-graded assignment, C# Coding With Microsoft Copilot, Course 2 of 12 of the Microsoft Full-Stack Developer Professional Certificate course.
+
 ### 1. Introduction  
 
 **Library Management System**  
-
-This is the second peer-graded assignment, C# Coding With Microsoft Copilot, Course 2 of 12 of the Microsoft Full-Stack Developer Professional Certificate course.
 
 You will create a simple library management system that stores up to five book titles using string variables. The system will allow users to add new books, remove a book, and display the list of available books.
 
