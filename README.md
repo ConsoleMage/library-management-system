@@ -26,7 +26,7 @@ With the help of Microsoft Copilot, you will build this program using string var
 
 **Added by GitHub Copilot*
 
-### 2. Testing/Debugging
+### 2. Debugging
 
 ![Copilot 1](https://github.com/user-attachments/assets/ca04edfa-9536-4363-a767-58ceae3211ed)
 
