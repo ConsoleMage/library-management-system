@@ -25,7 +25,7 @@ With the help of Microsoft Copilot, you will build this program using string var
 
 ![Copilot 1](https://github.com/user-attachments/assets/ca04edfa-9536-4363-a767-58ceae3211ed)
 
-With some help from the Visual Studio Code, I was able to set breakpoints and initialize expressions I wanted to monitor while debugging. I found the debugging interface in Visual Studio Code easy to use and developer-friendly.
+With some help from Visual Studio Code, I was able to set breakpoints and initialize expressions I wanted to monitor while debugging. I found the debugging interface in Visual Studio Code easy to use and developer-friendly.
 
 ### 3. GitHub Copilot
 
