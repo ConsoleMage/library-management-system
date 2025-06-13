@@ -11,15 +11,10 @@ You will create a simple library management system that stores up to five book t
 Imagine you're a librarian managing a small collection of five books. You need a program that allows you to:
 
 - Add Books to the Collection
-
 - Remove a Book by Its Title
-
 - Display the Current List of Books Available in the Library
-
 - Add a Search Feature*
-
 - Limit Borrowing*
-
 - Check-In a Borrowed Book*
 
 With the help of Microsoft Copilot, you will build this program using string variables, conditional statements, and loops.  
