@@ -23,13 +23,13 @@ With the help of Microsoft Copilot, you will build this program using string var
 
 ### 2. Debugging
 
-![Copilot 1](https://github.com/user-attachments/assets/ca04edfa-9536-4363-a767-58ceae3211ed)
+![Debugging](https://github.com/user-attachments/assets/aa573e2b-46c8-4e0d-8139-4c4dcdc89e12)
 
 With some help from Visual Studio Code, I was able to set breakpoints and initialize expressions I wanted to monitor while debugging. I found the debugging interface in Visual Studio Code easy to use and developer-friendly.
 
 ### 3. GitHub Copilot
 
-![Copilot 2](https://github.com/user-attachments/assets/fb355d77-b977-424c-99ce-9c1b40e3b9d7)
+![GitHub Copilot](https://github.com/user-attachments/assets/4dd3e75a-9602-41d6-a4be-e53ad64db20e)
 
 Adding new features to the application with GitHub Copilot through prompts was relatively easy, thanks to the integrated GitHub Copilot chat within Visual Studio Code. I had to discipline myself to first understand the code suggested by GitHub Copilot before integrating it into my project to avoid mistakes or introducing bugs that I might not understand later.
 
