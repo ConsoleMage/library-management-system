@@ -1,6 +1,6 @@
 # library-management-system
 
-This is the second peer-graded assignment: C# Coding With Microsoft Copilot, Course 2 of 12 of the Microsoft Full-Stack Developer Professional Certificate course.
+This is the second peer-graded assignment: C# Coding With Microsoft Copilot, Course 2 of 12 in the Microsoft Full-Stack Developer Professional Certificate.
 
 ### 1. Introduction  
 
