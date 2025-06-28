@@ -17,7 +17,7 @@
     public static class Program
     {
         private const string PleaseEnterValidInput = "Please enter a valid input.";
-        public static void Main()
+        static void Main(string[] args)
         {
             var books = new List<Book>();
             bool isRunning = true;
