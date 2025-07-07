@@ -1,6 +1,6 @@
 # library-management-system
 
-This is the second peer-graded assignment for "Introduction to Programming with C#," which is the second course in a 12-course series in the Microsoft Full-Stack Developer Professional Certificate program.
+This is the second peer-graded assignment for "Introduction to Programming with C#," the second course in a 12-course series in the Microsoft Full-Stack Developer Professional Certificate program.
 
 A project for creating a command-line application that can run on .NET on Windows, Linux and macOS.
 
