@@ -4,7 +4,7 @@ This is the second peer-graded assignment for "Introduction to Programming with 
 
 A project for creating a command-line application that can run on .NET on Windows, Linux and macOS.
 
-### 1. Introduction  
+## Introduction  
 
 **Library Management System**  
 
@@ -23,13 +23,13 @@ With the help of Microsoft Copilot, you will build this program using string var
 
 **Added by GitHub Copilot*
 
-### 2. Debugging
+## Debugging
 
 ![Debugging](https://github.com/user-attachments/assets/aa573e2b-46c8-4e0d-8139-4c4dcdc89e12)
 
 With some help from Visual Studio Code, I was able to set breakpoints and initialize expressions I wanted to monitor while debugging. I found the debugging interface in Visual Studio Code easy to use and developer-friendly.
 
-### 3. GitHub Copilot
+## GitHub Copilot
 
 ![GitHub Copilot](https://github.com/user-attachments/assets/4dd3e75a-9602-41d6-a4be-e53ad64db20e)
 
