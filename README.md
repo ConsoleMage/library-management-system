@@ -35,4 +35,4 @@ With some help from Visual Studio Code, I was able to set breakpoints and initia
 
 Adding new features to the application with GitHub Copilot through prompts was relatively easy, thanks to the integrated GitHub Copilot chat within Visual Studio Code. I had to discipline myself to first understand the code suggested by GitHub Copilot before integrating it into my project to avoid mistakes or introducing bugs that I might not understand later.
 
-**Tech stack**: .NET, Visual Studio Code, C# Dev Kit, SonarQube, GitHub Copilot
+**Tech stack**: .NET, Visual Studio Code, C# Dev Kit, SonarQube for IDE, GitHub Copilot
